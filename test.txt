@@ -1,2 +1,1 @@
-search
-geroge washington university 
+search geroge washington university 
